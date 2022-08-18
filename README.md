@@ -1,7 +1,7 @@
 ### Hola! 👋
 
 Mi nombre es Maikelis Salazar, soy estudiante de Ingeniería en Informática Duoc UC. 
-Me apasionan las tecnologias y el aprendizaje constante 
+Me apasionan las tecnologias y el aprendizaje constante. "Los pequeños cambios impulsan una mejora continua"
 
 ### Habilidades y estudios : 
 Durante mi formacion en el instituto Duoc Uc y la constante practica autodidacta he adquirido las siguientes hablidades:
