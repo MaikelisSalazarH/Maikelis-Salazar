@@ -25,4 +25,4 @@ En este espacio, podrás explorar una diversidad de proyectos que he llevado a c
 * Lógica de programación
 * Testing de Software QA – Básico 
 
-Contacto maikelis.dms@gmail.com
+Contacto maisalazarh@gmail.com
