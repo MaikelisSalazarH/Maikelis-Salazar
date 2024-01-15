@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-Mi nombre es Maikelis Salazar, soy estudiante de Ingeniería en Informática Duoc UC. 
+Mi nombre es Maikelis Salazar, soy Ingeniera en Informática, egresada del instituto profesional Duoc Uc 
 Me apasionan las tecnologias y el aprendizaje constante. "Los pequeños cambios impulsan una mejora continua"
 
 ### Habilidades y estudios : 
@@ -10,15 +10,19 @@ Durante mi formacion en el instituto Duoc Uc y la constante practica autodidacta
 * Javascript 
 * Phyton
 * Django
-* MySql 
+* MySql
+* Laravel
+* Vue js
+
 
 ### Repositorios: 
-Aquí encontraras una variedad de proyectos que he realizado a lo largo de mi carrera, bien sea de cursos o capacitaciones online además de mis propias creaciones 
+En este espacio, podrás explorar una diversidad de proyectos que he llevado a cabo a lo largo de mi carrera. Estos abarcan desde trabajos realizados en cursos y capacitaciones en línea, hasta creaciones personales.
 
 ### Cursos 📖
 * Azure Fundamentals 
 * Git + GitHub avanzado 
 * WordPress 
-* Lógica de programación  
+* Lógica de programación
+* Testing de Software QA – Básico 
 
 Contacto maikelis.dms@gmail.com
