@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-Mi nombre es Maikelis Salazar, soy Ingeniera en Informática egresada del instituto profesional Duoc Uc 
+Mi nombre es Maikelis Salazar, soy Ingeniera en Informática Titulada del instituto profesional Duoc Uc 
 Me apasionan las tecnologias y el aprendizaje constante. "Los pequeños cambios impulsan una mejora continua"
 
 ### Habilidades y estudios : 
